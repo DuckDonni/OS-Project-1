@@ -1,0 +1,15 @@
+/media/jonah/UbuntuVol/uDocs/GitHub/OS-Project-1/project-b/consumer/bin/Debug/net9.0/consumer
+/media/jonah/UbuntuVol/uDocs/GitHub/OS-Project-1/project-b/consumer/bin/Debug/net9.0/consumer.deps.json
+/media/jonah/UbuntuVol/uDocs/GitHub/OS-Project-1/project-b/consumer/bin/Debug/net9.0/consumer.runtimeconfig.json
+/media/jonah/UbuntuVol/uDocs/GitHub/OS-Project-1/project-b/consumer/bin/Debug/net9.0/consumer.dll
+/media/jonah/UbuntuVol/uDocs/GitHub/OS-Project-1/project-b/consumer/bin/Debug/net9.0/consumer.pdb
+/media/jonah/UbuntuVol/uDocs/GitHub/OS-Project-1/project-b/consumer/obj/Debug/net9.0/consumer.GeneratedMSBuildEditorConfig.editorconfig
+/media/jonah/UbuntuVol/uDocs/GitHub/OS-Project-1/project-b/consumer/obj/Debug/net9.0/consumer.AssemblyInfoInputs.cache
+/media/jonah/UbuntuVol/uDocs/GitHub/OS-Project-1/project-b/consumer/obj/Debug/net9.0/consumer.AssemblyInfo.cs
+/media/jonah/UbuntuVol/uDocs/GitHub/OS-Project-1/project-b/consumer/obj/Debug/net9.0/consumer.csproj.CoreCompileInputs.cache
+/media/jonah/UbuntuVol/uDocs/GitHub/OS-Project-1/project-b/consumer/obj/Debug/net9.0/consumer.sourcelink.json
+/media/jonah/UbuntuVol/uDocs/GitHub/OS-Project-1/project-b/consumer/obj/Debug/net9.0/consumer.dll
+/media/jonah/UbuntuVol/uDocs/GitHub/OS-Project-1/project-b/consumer/obj/Debug/net9.0/refint/consumer.dll
+/media/jonah/UbuntuVol/uDocs/GitHub/OS-Project-1/project-b/consumer/obj/Debug/net9.0/consumer.pdb
+/media/jonah/UbuntuVol/uDocs/GitHub/OS-Project-1/project-b/consumer/obj/Debug/net9.0/consumer.genruntimeconfig.cache
+/media/jonah/UbuntuVol/uDocs/GitHub/OS-Project-1/project-b/consumer/obj/Debug/net9.0/ref/consumer.dll

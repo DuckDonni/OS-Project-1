@@ -1,30 +1,30 @@
 {
   "format": 1,
   "restore": {
-    "/media/jonah/UbuntuVol/uDocs/GitHub/OS-Project-1/project-a/project-a.csproj": {}
+    "/media/jonah/UbuntuVol/uDocs/GitHub/OS-Project-1/project-b/consumer/consumer.csproj": {}
   },
   "projects": {
-    "/media/jonah/UbuntuVol/uDocs/GitHub/OS-Project-1/project-a/project-a.csproj": {
+    "/media/jonah/UbuntuVol/uDocs/GitHub/OS-Project-1/project-b/consumer/consumer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/media/jonah/UbuntuVol/uDocs/GitHub/OS-Project-1/project-a/project-a.csproj",
-        "projectName": "project-a",
-        "projectPath": "/media/jonah/UbuntuVol/uDocs/GitHub/OS-Project-1/project-a/project-a.csproj",
+        "projectUniqueName": "/media/jonah/UbuntuVol/uDocs/GitHub/OS-Project-1/project-b/consumer/consumer.csproj",
+        "projectName": "consumer",
+        "projectPath": "/media/jonah/UbuntuVol/uDocs/GitHub/OS-Project-1/project-b/consumer/consumer.csproj",
         "packagesPath": "/home/jonah/.nuget/packages/",
-        "outputPath": "/media/jonah/UbuntuVol/uDocs/GitHub/OS-Project-1/project-a/obj/",
+        "outputPath": "/media/jonah/UbuntuVol/uDocs/GitHub/OS-Project-1/project-b/consumer/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/jonah/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
-          "net8.0"
+          "net9.0"
         ],
         "sources": {
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net8.0": {
-            "targetAlias": "net8.0",
+          "net9.0": {
+            "targetAlias": "net9.0",
             "projectReferences": {}
           }
         },
@@ -41,8 +41,8 @@
         "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
-        "net8.0": {
-          "targetAlias": "net8.0",
+        "net9.0": {
+          "targetAlias": "net9.0",
           "imports": [
             "net461",
             "net462",
@@ -54,20 +54,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[8.0.13, 8.0.13]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Host.linux-x64",
-              "version": "[8.0.13, 8.0.13]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[8.0.13, 8.0.13]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"

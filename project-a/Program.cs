@@ -232,7 +232,7 @@ class Program
 }
 */
 
-/*
+
 //Phase 4
 using System;
 using System.Threading;
@@ -311,7 +311,7 @@ class Program
         Console.WriteLine($"Final Balance: Account1: ${account1.Balance}, Account2: ${account2.Balance}");
     }
 }
-*/
+
 
 
 

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "jxQMyKt4hIA=",
+  "success": true,
+  "projectFilePath": "/media/jonah/UbuntuVol/uDocs/GitHub/OS-Project-1/project-b/project-b.csproj",
+  "expectedPackageFiles": [
+    "/home/jonah/.nuget/packages/mono.posix/7.1.0-final.1.21458.1/mono.posix.7.1.0-final.1.21458.1.nupkg.sha512",
+    "/home/jonah/.nuget/packages/mono.unix/7.1.0-final.1.21458.1/mono.unix.7.1.0-final.1.21458.1.nupkg.sha512"
+  ],
+  "logs": []
+}

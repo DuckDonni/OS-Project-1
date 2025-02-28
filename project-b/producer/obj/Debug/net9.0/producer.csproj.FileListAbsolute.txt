@@ -1,0 +1,15 @@
+/media/jonah/UbuntuVol/uDocs/GitHub/OS-Project-1/project-b/producer/bin/Debug/net9.0/producer
+/media/jonah/UbuntuVol/uDocs/GitHub/OS-Project-1/project-b/producer/bin/Debug/net9.0/producer.deps.json
+/media/jonah/UbuntuVol/uDocs/GitHub/OS-Project-1/project-b/producer/bin/Debug/net9.0/producer.runtimeconfig.json
+/media/jonah/UbuntuVol/uDocs/GitHub/OS-Project-1/project-b/producer/bin/Debug/net9.0/producer.dll
+/media/jonah/UbuntuVol/uDocs/GitHub/OS-Project-1/project-b/producer/bin/Debug/net9.0/producer.pdb
+/media/jonah/UbuntuVol/uDocs/GitHub/OS-Project-1/project-b/producer/obj/Debug/net9.0/producer.GeneratedMSBuildEditorConfig.editorconfig
+/media/jonah/UbuntuVol/uDocs/GitHub/OS-Project-1/project-b/producer/obj/Debug/net9.0/producer.AssemblyInfoInputs.cache
+/media/jonah/UbuntuVol/uDocs/GitHub/OS-Project-1/project-b/producer/obj/Debug/net9.0/producer.AssemblyInfo.cs
+/media/jonah/UbuntuVol/uDocs/GitHub/OS-Project-1/project-b/producer/obj/Debug/net9.0/producer.csproj.CoreCompileInputs.cache
+/media/jonah/UbuntuVol/uDocs/GitHub/OS-Project-1/project-b/producer/obj/Debug/net9.0/producer.sourcelink.json
+/media/jonah/UbuntuVol/uDocs/GitHub/OS-Project-1/project-b/producer/obj/Debug/net9.0/producer.dll
+/media/jonah/UbuntuVol/uDocs/GitHub/OS-Project-1/project-b/producer/obj/Debug/net9.0/refint/producer.dll
+/media/jonah/UbuntuVol/uDocs/GitHub/OS-Project-1/project-b/producer/obj/Debug/net9.0/producer.pdb
+/media/jonah/UbuntuVol/uDocs/GitHub/OS-Project-1/project-b/producer/obj/Debug/net9.0/producer.genruntimeconfig.cache
+/media/jonah/UbuntuVol/uDocs/GitHub/OS-Project-1/project-b/producer/obj/Debug/net9.0/ref/producer.dll

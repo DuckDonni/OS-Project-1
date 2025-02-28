@@ -1,0 +1,15 @@
+/media/jonah/UbuntuVol/uDocs/GitHub/OS-Project-1/project-a/bin/Debug/net8.0/project-a
+/media/jonah/UbuntuVol/uDocs/GitHub/OS-Project-1/project-a/bin/Debug/net8.0/project-a.deps.json
+/media/jonah/UbuntuVol/uDocs/GitHub/OS-Project-1/project-a/bin/Debug/net8.0/project-a.runtimeconfig.json
+/media/jonah/UbuntuVol/uDocs/GitHub/OS-Project-1/project-a/bin/Debug/net8.0/project-a.dll
+/media/jonah/UbuntuVol/uDocs/GitHub/OS-Project-1/project-a/bin/Debug/net8.0/project-a.pdb
+/media/jonah/UbuntuVol/uDocs/GitHub/OS-Project-1/project-a/obj/Debug/net8.0/project-a.GeneratedMSBuildEditorConfig.editorconfig
+/media/jonah/UbuntuVol/uDocs/GitHub/OS-Project-1/project-a/obj/Debug/net8.0/project-a.AssemblyInfoInputs.cache
+/media/jonah/UbuntuVol/uDocs/GitHub/OS-Project-1/project-a/obj/Debug/net8.0/project-a.AssemblyInfo.cs
+/media/jonah/UbuntuVol/uDocs/GitHub/OS-Project-1/project-a/obj/Debug/net8.0/project-a.csproj.CoreCompileInputs.cache
+/media/jonah/UbuntuVol/uDocs/GitHub/OS-Project-1/project-a/obj/Debug/net8.0/project-a.sourcelink.json
+/media/jonah/UbuntuVol/uDocs/GitHub/OS-Project-1/project-a/obj/Debug/net8.0/project-a.dll
+/media/jonah/UbuntuVol/uDocs/GitHub/OS-Project-1/project-a/obj/Debug/net8.0/refint/project-a.dll
+/media/jonah/UbuntuVol/uDocs/GitHub/OS-Project-1/project-a/obj/Debug/net8.0/project-a.pdb
+/media/jonah/UbuntuVol/uDocs/GitHub/OS-Project-1/project-a/obj/Debug/net8.0/project-a.genruntimeconfig.cache
+/media/jonah/UbuntuVol/uDocs/GitHub/OS-Project-1/project-a/obj/Debug/net8.0/ref/project-a.dll
