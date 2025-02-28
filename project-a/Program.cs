@@ -68,9 +68,6 @@ class Program
 /*
 //Phase 2
 
-using System;
-using System.Threading;
-
 class BankAccount
 {
     public int Balance;
@@ -139,8 +136,6 @@ class Program
 
 /*
 //Phase 3
-using System;
-using System.Threading;
 
 class BankAccount
 {
@@ -234,8 +229,6 @@ class Program
 
 
 //Phase 4
-using System;
-using System.Threading;
 
 class BankAccount
 {

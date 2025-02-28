@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/media/jonah/UbuntuVol/uDocs/GitHub/OS-Project-1/project-a/project-a.csproj": {}
+    "C:\\Users\\jonah\\OneDrive\\Documents\\GitHub\\OS-Project-1\\project-a\\project-a.csproj": {}
   },
   "projects": {
-    "/media/jonah/UbuntuVol/uDocs/GitHub/OS-Project-1/project-a/project-a.csproj": {
+    "C:\\Users\\jonah\\OneDrive\\Documents\\GitHub\\OS-Project-1\\project-a\\project-a.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/media/jonah/UbuntuVol/uDocs/GitHub/OS-Project-1/project-a/project-a.csproj",
+        "projectUniqueName": "C:\\Users\\jonah\\OneDrive\\Documents\\GitHub\\OS-Project-1\\project-a\\project-a.csproj",
         "projectName": "project-a",
-        "projectPath": "/media/jonah/UbuntuVol/uDocs/GitHub/OS-Project-1/project-a/project-a.csproj",
-        "packagesPath": "/home/jonah/.nuget/packages/",
-        "outputPath": "/media/jonah/UbuntuVol/uDocs/GitHub/OS-Project-1/project-a/obj/",
+        "projectPath": "C:\\Users\\jonah\\OneDrive\\Documents\\GitHub\\OS-Project-1\\project-a\\project-a.csproj",
+        "packagesPath": "C:\\Users\\jonah\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jonah\\OneDrive\\Documents\\GitHub\\OS-Project-1\\project-a\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/jonah/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\jonah\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
@@ -59,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/9.0.200/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
