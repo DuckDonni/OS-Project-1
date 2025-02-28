@@ -62,8 +62,8 @@ class Program
         Console.WriteLine($"Final Balance: Account1: ${account1.Balance}, Account2: ${account2.Balance}");
     }
 }
-
 */
+
 
 /*
 //Phase 2
@@ -134,8 +134,8 @@ class Program
         Console.WriteLine($"Final Balance: Account1: ${account1.Balance}, Account2: ${account2.Balance}");
     }
 }
-
 */
+
 
 /*
 //Phase 3
@@ -301,12 +301,18 @@ class Program
 
         Thread t1 = new Thread(() => Transfer(account1, account2, 50));
         Thread t2 = new Thread(() => Transfer(account2, account1, 30));
+        Thread t3 = new Thread(() => Transfer(account1, account2, 100));
+        Thread t4 = new Thread(() => Transfer(account2, account1, 30));
 
         t1.Start();
         t2.Start();
+        t3.Start();
+        t4.Start();
 
         t1.Join();
         t2.Join();
+        t3.Join();
+        t4.Join();
 
         Console.WriteLine($"Final Balance: Account1: ${account1.Balance}, Account2: ${account2.Balance}");
     }
